@@ -1,5 +1,9 @@
 # vue-input-item
 vue-input-item component use to form submission
+
+### The results are as follows：
+![](https://github.com/wanlixi/vue-input-item/edit/master/vue-input-item.gif)
+
 ### Tip：
 ##### 1. Icon is depending on [iview UI](http://v1.iviewui.com/components/icon)
 ##### 2. utils is depending on my other [repository](https://github.com/wanlixi/utils.js)
