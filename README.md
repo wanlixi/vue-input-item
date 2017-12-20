@@ -2,7 +2,8 @@
 vue-input-item component use to form submission
 
 ### The results are as follows：
-![](https://github.com/wanlixi/vue-input-item/edit/master/vue-input-item.gif)
+```<img src="https://github.com/wanlixi/vue-input-item/edit/master/vue-input-item.gif" />
+```
 
 ### Tip：
 ##### 1. Icon is depending on [iview UI](http://v1.iviewui.com/components/icon)
