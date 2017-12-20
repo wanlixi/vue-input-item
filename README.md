@@ -1,5 +1,9 @@
 # vue-input-item
 vue-input-item component use to form submission
+### 注意：
+1.Iocn 是依赖于 [iview UI](http://v1.iviewui.com/components/icon)
+2.utils 是依赖于 我的另一个[repository](https://github.com/wanlixi/utils.js)
+
 
 ```
 	Create by wanlixin on 2017-12-20
